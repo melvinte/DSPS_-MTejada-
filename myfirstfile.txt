@@ -1,6 +1,2 @@
 whatever
-<<<<<<< HEAD
-this is gonna go wrong...
-=======
-break damn you
->>>>>>> ca0ccef73ff211eb6acbc8cd06e7f6f2e04e43cf
+this is NOT gonna go wrong
